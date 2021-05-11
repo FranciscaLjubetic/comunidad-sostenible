@@ -1,0 +1,98 @@
+		<div class="container">
+			<div class="row">
+				<div id="logo" class="offset-2 col-1"><img src="img\ecomunidad-logo.png" alt=""></div>
+				<div id="navarriba" class="offset-1 col-6">
+					<nav  class="navbar navbar-expand-lg navbar-light bg-white">
+						<div class="container-fluid">
+						<div class="collapse navbar-collapse" id="navbarNav">
+							<ul class="navbar-nav">
+							<li class="nav-item">
+								<a class="nav-link active" aria-current="page" href="#">Nosotros   |</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">   Servicios   |</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">   Proyectos   |</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">   Equipos   |</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">   Blogs   |</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">   Síguenos </a>
+							</li>
+							</ul>
+						</div>
+						</div>
+					</nav>
+				</div>
+			</div> <!-- icono nav-->
+			<div id="semilla" class="row bg-img-block mg-0 pd-0"><img src="img\semilla.jpg" alt=""></div> <!-- img planta-->
+			<div class="d-flex align-items-center bg-gray text-center text-black mg-0 pd-10 align-middle" style="height: 100px; width: fit-content;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+			Recusandae hic culpa dignissimos laborum quo dolore nam! Deleniti repellat error consequuntur earum 
+			facilis expedita molestiae optio illum nesciunt, quisquam, aspernatur animi!</div> <!-- parrafo-->
+			<div class="row">
+				<div class="col-5 bg-white text-dark bg-img-block">
+					<img src="img\iconos\mision\mision.png" alt="">
+					<h2>Misión</h2>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus debitis dolorum voluptas nostrum porro neque tempor</p>
+				</div>
+				<div class="col-5 bg-white text-dark">
+					<img src="img\iconos\mision\vision.png" alt="">
+					<h2>Visión</h2>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus debitis dolorum voluptas nostrum porro neque tempor</p>
+				</div>
+			</div> <!-- mision vision-->
+			<div class="row">
+				<div class="col-6"><img src="img\metodo.JPG" alt=""></div>
+				<div class="col-6 bg-green text-white"><img src="img\iconos\metodologia-icon.png" alt=""><h2>Metodología</h2><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nequ</p></div>
+			</div> <!-- metodologia imgverde-->
+			<div class="row text-center">
+				<div class="col-12 text-center text-dark bg-white"><h2>Servicios</h2><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci necessitatibus rerum ab</p></div>
+				<div class="row offset-1 block">
+					<div class="col-2"><img src="" alt=""><h3>Educación para el cambio Sostenible</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+					<div class="col-2"><img src="" alt=""><h3>Mitigación cambio climático</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+					<div class="col-2"><img src="" alt=""><h3>Bienestar ocupacional</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+				</div>
+				<div class="row offset-1">
+					<div class="col-2"><img src="" alt=""><h3>Consultorias en Seguridad industrial y Medio Ambiente</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+					<div class="col-2"><img src="" alt=""><h3>Manejo de Aguas</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+					<div class="col-2"><img src="" alt=""><h3>Agricultura</h3><p>Lorem ipsum dolor, sit amet consectetur adip</p></div>
+				</div>
+			</div> <!-- servicios-->
+			<div class="row bg-success">
+				<div class="main">
+					<div class="row">
+							<div class="col-5">
+								<img src="" alt="">
+							</div>
+							<div class="col-5">
+								<h3>Nombre del Proyecto 1</h3>
+								<h4>Nombre de distrito</h4>
+								<p>Lorem ipsum, dolorhjlhljewb.jñifhñiwoeh</p>
+							</div>
+					</div>
+					<div class="row">
+							<div class="col-5 inline">
+								<img src="" alt="">
+							</div>
+							<div class="col-5 inline">
+								<h3>Nombre del Proyecto 2</h3>
+								<h4>Nombre de distrito</h4>
+								<p>Lorem ipsum, dolorhjlhljewb.jñifhñiwoeh</p>
+							</div>
+					</div>
+				</div>
+			</div> <!-- proyectos-->
+			<div class="row offset-1">
+				<div class="col-10 main bg-white text-center"><h3>Equipo</h3>
+					<div class="col-5 text-center"><img src="" alt=""><h3>Alan brito</h3><h4>cargo desempeñado</h4><p>hjhsfluihljkbf.jebvñb.jv blvb</p></div>
+					<div class="col-5 text-center"><img src="" alt=""><h3>Alan brito</h3><h4>cargo desempeñado</h4><p>hjhsfluihljkbf.jebvñb.jv blvb</p></div>
+				</div>
+			</div> <!-- equipos-->
+			<div class="row"></div> <!-- blogs-->
+			<div class="row"></div> <!-- redes sociales-->
+		</div><!-- Inserta tu codigo aqui -->
