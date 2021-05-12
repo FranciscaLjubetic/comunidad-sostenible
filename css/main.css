@@ -17,7 +17,6 @@ font-face{
 body{
 font-family: Arial, Helvetica, sans-serif;
 }
-
 #navarriba {
     display: inline-block;
 }
@@ -33,7 +32,6 @@ font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: rgb(83, 88, 95);
 }
-
 #logo img {
     background-size: contain;
     background-color: none;
@@ -107,7 +105,6 @@ ul.navbar-nav{
     border-radius: 0%;
     margin: 5px;
 }
-
 #equipo{
     min-height: 600px;
 }
