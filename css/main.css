@@ -69,12 +69,11 @@ ul.navbar-nav{
 #fotoymetod {
     min-height: 450px;
 }
-
 #educacionmitigacionbienestar img, #misionvision img, #consultoriasmanejoagri img {
     margin: 20px;
 }
 #educacionmitigacionbienestar div, #consultoriasmanejoagri div {
-    margin: 30px;
+    margin: 50px;
 }
 #consultorias img {
     width: 132px;
